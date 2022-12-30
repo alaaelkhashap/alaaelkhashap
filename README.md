@@ -1,6 +1,7 @@
 # 💫 About Me:
-Junior Data Scientist seeking an opportunity. A passionate learner, organized, <br>and team player who worked on senior projects related to machine learning,<br>Deep learning, and NLP. Interested in using my real-world data science <br>experience for related projects to prove my capabilities.
+Junior Data Scientist seeking an opportunity. A passionate learner, organized,and team player who worked on senior projects related to machine learning,Deep learning, and NLP. Interested in using my real-world data science experience for related projects to prove my capabilities.
 
+![d4tvukbt5mra37cvwklk](https://user-images.githubusercontent.com/60587913/210066611-186f911c-d4e0-485b-94d6-d00f3613624f.gif)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/%D9%90%D9%90alaa-elkhashap/) 
